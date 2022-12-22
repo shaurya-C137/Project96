@@ -1,0 +1,3 @@
+homescreen = text, view, image, imagebackground, drawernaviator-informationscreen, mainscreen
+informatoinscreen = dropdownpicker/textinput, touchableopacity, text, view
+mainscreen = text, image, view, scrollview
